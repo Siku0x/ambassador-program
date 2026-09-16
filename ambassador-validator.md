@@ -33,7 +33,7 @@ The node does not exist yet. During this phase:
 1. The cohort is selected and onboarded.
 2. The cohort runs a **testnet validator** as preparation, using the same runbook that will govern the mainnet node.
 3. The operating runbook, monitoring setup, on-call rota and incident procedure are written and tested by the cohort itself.
-4. VAL task points accrue as ORB Credits under the [Ecosystem Agent Program](./ecosystem-agent-program.md) scoring, same as any other task.
+4. VAL task points accrue as ORB Credits under the [Orbinum Ambassador Program](./ambassador-program.md) scoring, same as any other task.
 
 Phase 1 exists so that nobody touches a mainnet key without having already operated a node for a full quarter.
 
