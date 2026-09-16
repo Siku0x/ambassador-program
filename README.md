@@ -1,4 +1,4 @@
-# Orbinum Ecosystem Ambassador Program
+# Orbinum Ambassador Program v1
 
 <img width="1914" height="910" alt="image" src="https://github.com/user-attachments/assets/02aef89d-e641-49bd-9491-99d48f422b53" />
 
