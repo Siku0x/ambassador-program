@@ -99,7 +99,7 @@ You can find the list of ambassadors [HERE](./ambassador-list.md).
 
 ## Programs we offer
 
-1. **Ecosystem ambassador Program** — for all community members. See [HERE](./ecosystem-ambassador-program.md).
+1. **Ecosystem ambassador Program** — for all community members. See [HERE](./ambassador-program.md).
 2. **Ambassador-Owned Validator Program** — pilot, one validator slot. See [HERE](./ambassador-validator.md).
 
 A **Technical ambassador Program** will open after mainnet, alongside the builder ecosystem programme.
