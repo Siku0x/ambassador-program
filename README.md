@@ -2,7 +2,7 @@
 
 <img width="1914" height="910" alt="image" src="https://github.com/user-attachments/assets/02aef89d-e641-49bd-9491-99d48f422b53" />
 
-> **📢** This program is tracked **transparently** on GitHub.
+> **📢** This program is tracked **transparently** on GitHub | [Application form](https://forms.gle/GKk6rv2RzavsV7YX6) is now open
 
 ---
 
