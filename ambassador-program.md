@@ -13,7 +13,7 @@
 7. In case that there is a surplus and no one achieves ≥80%, the surplus will remain in the Community Treasury.
 8. In addition to the reward pool, an additional 30% bonus will be distributed to those who achieve an average ≥90% for each quarter.
 9. In case that you do group work with other ambassadors — e.g. two ambassadors from the same country jointly organise a local meetup — please submit your contribution individually, stating that it is group work. This is to avoid confusion. Points will be given individually.
-10. An example of how the calculation works can be found [HERE](#) *(link to calculation example)*.
+10. An example of how the calculation works can be found [HERE](https://docs.google.com/spreadsheets/d/1xNLr76EFKrFXxTTJXISaZR8k_g43JhOJIfPU5vawRoE/edit?gid=1487021475#gid=1487021475) *(link to calculation example)*.
 11. **Reward pool.** Until TGE, rewards are denominated in **ORB Credits**, accrued monthly and settled at TGE from the Airdrops & Awards allocation (0.1% out of 3% from season 2-3). After mainnet, the pool transitions to staking emissions from the [Ambassador-Owned Validator](./ambassador-validator.md). 
 12. **Emissions are finite.** ORB has a hard cap of 1,000,000,000 and no perpetual inflation. Staking emissions run over roughly 10 years from mainnet, the pool is largest in the early years, and it has an end date. When emissions are exhausted, the funding mechanism for this programme will be renegotiated openly with the community rather than assumed to continue. The monthly pool figure is republished each quarter. See [Emissions are finite](./ambassador-validator.md#emissions-are-finite--read-this-before-you-join) for the full explanation — please read it before joining.
 13. The score is evaluated and determined by the Growth Lead, with input from the Orbinum core team. In the next version, when the "Lead Ambassador" title is officially activated, they may take over the role of assessment as a council.
@@ -75,7 +75,7 @@ Contributions:
    * [link to article and statistics screenshot]
 ```
 
-Scores and rewards are published on the program [SPREADSHEET](#) *(link to scoring spreadsheet)*, using the same template and calculation method as the report format above.
+Scores and rewards are published on the program [SPREADSHEET](https://docs.google.com/spreadsheets/d/1xNLr76EFKrFXxTTJXISaZR8k_g43JhOJIfPU5vawRoE/edit?gid=1265522897#gid=1265522897) *(link to scoring spreadsheet)*, using the same template and calculation method as the report format above.
 
 ---
 
