@@ -1,12 +1,10 @@
-# Orbinum Ecosystem Agent Program
+# Orbinum Ecosystem Ambassador Program
 
 <img width="1914" height="910" alt="image" src="https://github.com/user-attachments/assets/02aef89d-e641-49bd-9491-99d48f422b53" />
 
 > **📢** This program is tracked **transparently** on GitHub.
 
 ---
-
-# Agent Program
 
 ## Overview
 
@@ -20,7 +18,7 @@ We are early. Public testnet launched in July 2026, mainnet and TGE are targeted
 
 ## Goal & Responsibilities
 
-Cultivate an informed, engaged community that contributes to the growth of Orbinum through education, onboarding and honest advocacy. The program aims to turn agents into credible educators and facilitators — people who can explain what a shielded pool is, why selective disclosure matters, and what Orbinum does and does not hide.
+Cultivate an informed, engaged community that contributes to the growth of Orbinum through education, onboarding and honest advocacy. The program aims to turn ambassadors into credible educators and facilitators — people who can explain what a shielded pool is, why selective disclosure matters, and what Orbinum does and does not hide.
 
 Open to all. Developers, writers, community builders, event organisers, translators, node operators. The main requirement is the willingness to learn the technology properly and represent it accurately.
 
@@ -40,7 +38,7 @@ Open to all. Developers, writers, community builders, event organisers, translat
 - Support new users through the testnet and the Season 1 quest system.
 - Organise meetups for the local community.
 - Attend events and conferences on behalf of the team.
-- Attend the monthly Agent call.
+- Attend the monthly ambassador call.
 
 ## Benefits
 
@@ -53,13 +51,13 @@ Open to all. Developers, writers, community builders, event organisers, translat
 - Recognition and promotion of your contributions through official Orbinum channels.
 - Invitations to local events and conferences supported by the Orbinum team.
 - Be an early adopter of the technology.
-- Limited edition items reserved only for agents.
+- Limited edition items reserved only for ambassadors.
 
 ---
 
 # ⚖️ Code of Conduct
 
-Being an agent means being officially recognised as a representative of Orbinum Network and its ecosystem. This role carries a responsibility to uphold the Orbinum name and its values.
+Being an ambassador means being officially recognised as a representative of Orbinum Network and its ecosystem. This role carries a responsibility to uphold the Orbinum name and its values.
 
 Before joining, members must read, understand and respect this Code of Conduct.
 
@@ -71,7 +69,7 @@ Before joining, members must read, understand and respect this Code of Conduct.
 - **Speak your mind:** Express your thoughts openly and respectfully. Disagreement expressed well is more valuable to us than agreement.
 - **Share feedback:** Give constructive feedback and be open to receiving it.
 - **Act exemplary:** Lead by example, upholding high ethical standards and supporting the community's vision with integrity.
-- **Social identity:** As representatives of Orbinum, agents are expected to uphold the reputation of the project through their social identity — avoiding heavy engagement farming and refraining from excessive promotion of competitor products.
+- **Social identity:** As representatives of Orbinum, ambassadors are expected to uphold the reputation of the project through their social identity — avoiding heavy engagement farming and refraining from excessive promotion of competitor products.
 
 ### Avoid
 
@@ -83,28 +81,28 @@ Before joining, members must read, understand and respect this Code of Conduct.
 
 ### Privacy-specific conduct
 
-Orbinum builds privacy infrastructure. That places two obligations on agents that other programs do not have.
+Orbinum builds privacy infrastructure. That places two obligations on ambassadors that other programs do not have.
 
 - **Never position Orbinum as a tool for evading law, regulation or tax.** It is not, and describing it that way damages the exact institutional adoption we are working toward. If you are asked, the accurate answer is that Orbinum provides confidentiality with selective, user-controlled disclosure — not anonymity from lawful process.
-- **Never overstate what is hidden.** Shield and unshield operations are visible on-chain, timing is visible, and unshielded amounts are public. An agent who tells a user "everything is private" is setting that user up for harm. Accuracy here is not pedantry — it is the job.
+- **Never overstate what is hidden.** Shield and unshield operations are visible on-chain, timing is visible, and unshielded amounts are public. An ambassador who tells a user "everything is private" is setting that user up for harm. Accuracy here is not pedantry — it is the job.
 - **Never ask for, collect or store another user's spending key, seed phrase or vault data.** Disclosure keys shared voluntarily for a quest are fine; anything beyond that is not.
 
-If you are a member of the Agent Program, consider it a privilege to represent Orbinum, and demonstrate exemplary behaviour when engaging with the community and partners.
+If you are a member of the ambassador Program, consider it a privilege to represent Orbinum, and demonstrate exemplary behaviour when engaging with the community and partners.
 
 Violating this Code of Conduct may lead to warnings or permanent removal from the program, taking into account the seriousness and frequency of the transgression. The Growth Lead holds ultimate authority in upholding these guidelines.
 
 ---
 
-# The Agents
+# The ambassadors
 
-You can find the list of Agents [HERE](./agent-list.md).
+You can find the list of ambassadors [HERE](./ambassador-list.md).
 
 ## Programs we offer
 
-1. **Ecosystem Agent Program** — for all community members. See [HERE](./ecosystem-agent-program.md).
+1. **Ecosystem ambassador Program** — for all community members. See [HERE](./ecosystem-ambassador-program.md).
 2. **Ambassador-Owned Validator Program** — pilot, one validator slot. See [HERE](./ambassador-validator.md).
 
-A **Technical Agent Program** will open after mainnet, alongside the builder ecosystem programme.
+A **Technical ambassador Program** will open after mainnet, alongside the builder ecosystem programme.
 
 ---
 
@@ -116,7 +114,7 @@ A **Technical Agent Program** will open after mainnet, alongside the builder eco
 - We value your commitment to the program.
 - We value the impact of your existing and future contributions to the ecosystem.
 - We value transparency in the nature of your work and contributions.
-- We value your ability to work with other candidates, agents and community members.
+- We value your ability to work with other candidates, ambassadors and community members.
 - We value your efforts in growing an active community that wants to see Orbinum succeed.
 - We value your referrer and your future referrals.
 
