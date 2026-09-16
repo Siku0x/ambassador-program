@@ -2,7 +2,7 @@
 
 The current list of Orbinum Ecosystem Agents.
 
-**Status key** — `Trial` (months 1–2, unrewarded) · `Active` · `Validator Cohort` · `Inactive`
+**Status key** — `Trial` · `Active` · `Validator Cohort` · `Inactive`
 
 | Agent | Region / Language | Telegram | Discord | X | Joined | Status |
 | --- | --- | --- | --- | --- | --- | --- |
